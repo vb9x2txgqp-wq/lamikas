@@ -4,13 +4,13 @@
  */
 
 // Import all modules
-import { DashboardFrontend } from './dashboard.js';
-import { PropertiesFrontend } from './properties.js';
-import { TenantsFrontend } from './tenants.js';
-import { PaymentsFrontend } from './payments.js';
-import { MaintenanceFrontend } from './maintenance.js';
-import { ReportsFrontend } from './reports.js';
-import { SettingsFrontend } from './settings.js';
+import { DashboardFrontend } from '../dashboard.js';
+import { PropertiesFrontend } from '../properties.js';
+import { TenantsFrontend } from '../tenants.js';
+import { PaymentsFrontend } from '../payments.js';
+import { MaintenanceFrontend } from '../maintenance.js';
+import { ReportsFrontend } from '../reports.js';
+import { SettingsFrontend } from '../settings.js';
 
 // Import utility modules
 import { authManager } from './js/auth.js';
