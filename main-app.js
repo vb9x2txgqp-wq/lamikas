@@ -13,7 +13,7 @@ import { ReportsFrontend } from './reports.js';
 import { SettingsFrontend } from './settings.js';
 
 // Import utility modules
-import { authManager } from '/js/auth.js';
+import { authManager } from './js/auth.js';
 
 /**
  * MainApp - Lightweight Controller
